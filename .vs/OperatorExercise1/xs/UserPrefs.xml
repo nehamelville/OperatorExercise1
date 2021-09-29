@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{D0FCD2AF-E7C8-49D5-A207-1BE5B3964038}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="OperatorExercise1/Program.cs">
     <Files>
-      <File FileName="OperatorExercise1/Program.cs" Line="1" Column="1" />
+      <File FileName="OperatorExercise1/Program.cs" Line="24" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,7 +18,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.OperatorExercise1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.OperatorExercise1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
